@@ -3,6 +3,6 @@
 Bash to create user for cctvView
 ## How to use
 
- ```cctv createuser```
+ `cctv createuser`
 
 ## How to setup
